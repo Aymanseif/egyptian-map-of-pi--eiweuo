@@ -1,6 +1,5 @@
 # Egyptian Map of Pi
 
-[![Build Status](https://github.com/KOSASIH/repo/actions/workflows/main.yml/badge.svg)](https://github.com/KOSASIH/repo/actions/workflows/main.yml)
 [![Test Coverage](https://codecov.io/gh/KOSASIH/repo/branch/main/graph/badge.svg)](https://codecov.io/gh/owner/repo)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](CHANGELOG.md)
